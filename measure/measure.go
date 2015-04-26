@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"lock/filter"
+	"github.com/Mic92/lock/filter"
 	"math"
 	"runtime"
 	"sync"
