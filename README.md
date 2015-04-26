@@ -2,7 +2,9 @@
 Lock algorithm in go
 
 `filter/` Peterson's Filter Lock
+
 `flag/` Flag Lock
+
 `measure/` measure overtaken threads, when using filter lock
 
 The algorithm chosen are more of a theoretical nature. 
